@@ -1,0 +1,31 @@
+{
+  "employeeDetails": [
+    {
+      "empId": "007",
+      "userName": "Ronit",
+      "email": "ronit@gmail.com",
+      "status": "Active"
+    },
+    {
+      "id": "fdd9",
+      "empId": "001",
+      "userName": "Navaneeth",
+      "email": "navaneeth@gmail.com",
+      "status": "Active"
+    },
+    {
+      "id": "f515",
+      "empId": "002",
+      "userName": "Arjun",
+      "email": "arjun@gmail.com",
+      "status": "Active"
+    },
+    {
+      "id": "ebc2",
+      "empId": "003",
+      "userName": "Vijesh",
+      "email": "vj@gmail.com",
+      "status": "Inactive"
+    }
+  ]
+}
